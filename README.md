@@ -46,7 +46,7 @@ Backend
    - Payment using Stripe
    
 # In action👀   
- https://user-images.githubusercontent.com/108759098/179477964-3b0c23cc-187c-4ece-a784-48de51feb825.mp4
+-First of all we have to log in or register in the site with a repective phone number and email (here for example we have taken a username of "Yah Agarwal")
  
 
 https://user-images.githubusercontent.com/108759098/179493289-97893d40-e118-4b7b-810e-6b6aa5d08ac3.mp4
